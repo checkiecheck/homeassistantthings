@@ -78,19 +78,19 @@ entities:
       width: 2
     x: |
       $ex [
-        hass.states["number.replace_me_zone_1_x_begin"].state,
-        hass.states["number.replace_me_zone_1_x_end"].state,
-        hass.states["number.replace_me_zone_1_x_end"].state,
-        hass.states["number.replace_me_zone_1_x_begin"].state,
-        hass.states["number.replace_me_zone_1_x_begin"].state
+        hass.states["number.sensy_one_radar1_zone_1_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_1_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_1_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_1_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_1_x_begin"].state
       ]
     "y": |
       $ex [
-        hass.states["number.replace_me_zone_1_y_begin"].state,
-        hass.states["number.replace_me_zone_1_y_begin"].state,
-        hass.states["number.replace_me_zone_1_y_end"].state,
-        hass.states["number.replace_me_zone_1_y_end"].state,
-        hass.states["number.replace_me_zone_1_y_begin"].state
+        hass.states["number.sensy_one_radar1_zone_1_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_1_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_1_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_1_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_1_y_begin"].state
       ]
   - entity: ""
     name: Zone 2 Box
@@ -102,19 +102,19 @@ entities:
       width: 2
     x: |
       $ex [
-        hass.states["number.replace_me_zone_2_x_begin"].state,
-        hass.states["number.replace_me_zone_2_x_end"].state,
-        hass.states["number.replace_me_zone_2_x_end"].state,
-        hass.states["number.replace_me_zone_2_x_begin"].state,
-        hass.states["number.replace_me_zone_2_x_begin"].state
+        hass.states["number.sensy_one_radar1_zone_2_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_2_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_2_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_2_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_2_x_begin"].state
       ]
     "y": |
       $ex [
-        hass.states["number.replace_me_zone_2_y_begin"].state,
-        hass.states["number.replace_me_zone_2_y_begin"].state,
-        hass.states["number.replace_me_zone_2_y_end"].state,
-        hass.states["number.replace_me_zone_2_y_end"].state,
-        hass.states["number.replace_me_zone_2_y_begin"].state
+        hass.states["number.sensy_one_radar1_zone_2_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_2_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_2_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_2_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_2_y_begin"].state
       ]
   - entity: ""
     name: Zone 3 Box
@@ -126,19 +126,19 @@ entities:
       width: 2
     x: |
       $ex [
-        hass.states["number.replace_me_zone_3_x_begin"].state,
-        hass.states["number.replace_me_zone_3_x_end"].state,
-        hass.states["number.replace_me_zone_3_x_end"].state,
-        hass.states["number.replace_me_zone_3_x_begin"].state,
-        hass.states["number.replace_me_zone_3_x_begin"].state
+        hass.states["number.sensy_one_radar1_zone_3_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_3_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_3_x_end"].state,
+        hass.states["number.sensy_one_radar1_zone_3_x_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_3_x_begin"].state
       ]
     "y": |
       $ex [
-        hass.states["number.replace_me_zone_3_y_begin"].state,
-        hass.states["number.replace_me_zone_3_y_begin"].state,
-        hass.states["number.replace_me_zone_3_y_end"].state,
-        hass.states["number.replace_me_zone_3_y_end"].state,
-        hass.states["number.replace_me_zone_3_y_begin"].state
+        hass.states["number.sensy_one_radar1_zone_3_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_3_y_begin"].state,
+        hass.states["number.sensy_one_radar1_zone_3_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_3_y_end"].state,
+        hass.states["number.sensy_one_radar1_zone_3_y_begin"].state
       ]
   - entity: ""
     name: Exclusion Zone
@@ -150,19 +150,19 @@ entities:
       width: 2
     x: |
       $ex [
-        hass.states["number.replace_me_exclusion_x_begin"].state,
-        hass.states["number.replace_me_exclusion_x_end"].state,
-        hass.states["number.replace_me_exclusion_x_end"].state,
-        hass.states["number.replace_me_exclusion_x_begin"].state,
-        hass.states["number.replace_me_exclusion_x_begin"].state
+        hass.states["number.sensy_one_radar1_exclusion_x_begin"].state,
+        hass.states["number.sensy_one_radar1_exclusion_x_end"].state,
+        hass.states["number.sensy_one_radar1_exclusion_x_end"].state,
+        hass.states["number.sensy_one_radar1_exclusion_x_begin"].state,
+        hass.states["number.sensy_one_radar1_exclusion_x_begin"].state
       ]
     "y": |
       $ex [
-        hass.states["number.replace_me_exclusion_y_begin"].state,
-        hass.states["number.replace_me_exclusion_y_begin"].state,
-        hass.states["number.replace_me_exclusion_y_end"].state,
-        hass.states["number.replace_me_exclusion_y_end"].state,
-        hass.states["number.replace_me_exclusion_y_begin"].state
+        hass.states["number.sensy_one_radar1_exclusion_y_begin"].state,
+        hass.states["number.sensy_one_radar1_exclusion_y_begin"].state,
+        hass.states["number.sensy_one_radar1_exclusion_y_end"].state,
+        hass.states["number.sensy_one_radar1_exclusion_y_end"].state,
+        hass.states["number.sensy_one_radar1_exclusion_y_begin"].state
       ]
   - entity: ""
     name: Zone 1 Label
@@ -171,10 +171,10 @@ entities:
     showlegend: false
     text: |
       $ex (
-        (parseFloat(hass.states["number.replace_me_zone_1_x_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_1_x_end"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_1_y_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_1_y_end"].state) === 0)
+        (parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_end"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_end"].state) === 0)
         ? ""
         : "Z1"
       )
@@ -185,20 +185,20 @@ entities:
     x:
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_1_x_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_1_x_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_1_x_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_1_x_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_1_x_end"].state)) / 2)
         )
     "y":
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_1_y_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_1_y_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_1_y_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_1_y_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_1_y_end"].state)) / 2)
         )
   - entity: ""
     name: Zone 2 Label
@@ -207,10 +207,10 @@ entities:
     showlegend: false
     text: |
       $ex (
-        (parseFloat(hass.states["number.replace_me_zone_2_x_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_2_x_end"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_2_y_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_2_y_end"].state) === 0)
+        (parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_end"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_end"].state) === 0)
         ? ""
         : "Z2"
       )
@@ -221,20 +221,20 @@ entities:
     x:
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_2_x_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_2_x_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_2_x_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_2_x_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_2_x_end"].state)) / 2)
         )
     "y":
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_2_y_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_2_y_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_2_y_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_2_y_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_2_y_end"].state)) / 2)
         )
   - entity: ""
     name: Zone 3 Label
@@ -243,10 +243,10 @@ entities:
     showlegend: false
     text: |
       $ex (
-        (parseFloat(hass.states["number.replace_me_zone_3_x_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_3_x_end"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_3_y_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_zone_3_y_end"].state) === 0)
+        (parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_end"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_end"].state) === 0)
         ? ""
         : "Z3"
       )
@@ -257,20 +257,20 @@ entities:
     x:
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_3_x_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_3_x_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_3_x_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_3_x_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_3_x_end"].state)) / 2)
         )
     "y":
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_zone_3_y_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_zone_3_y_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_zone_3_y_begin"].state) +
-              parseFloat(hass.states["number.replace_me_zone_3_y_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_zone_3_y_end"].state)) / 2)
         )
   - entity: ""
     name: Exclusion Zone Label
@@ -279,10 +279,10 @@ entities:
     showlegend: false
     text: |
       $ex (
-        (parseFloat(hass.states["number.replace_me_exclusion_x_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_exclusion_x_end"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_exclusion_y_begin"].state) === 0 &&
-         parseFloat(hass.states["number.replace_me_exclusion_y_end"].state) === 0)
+        (parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_end"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_begin"].state) === 0 &&
+         parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_end"].state) === 0)
         ? ""
         : "E1"
       )
@@ -293,20 +293,20 @@ entities:
     x:
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_exclusion_x_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_exclusion_x_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_exclusion_x_begin"].state) +
-              parseFloat(hass.states["number.replace_me_exclusion_x_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_exclusion_x_end"].state)) / 2)
         )
     "y":
       - |-
         $ex (
-          (parseFloat(hass.states["number.replace_me_exclusion_y_begin"].state) === 0 &&
-           parseFloat(hass.states["number.replace_me_exclusion_y_end"].state) === 0)
+          (parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_begin"].state) === 0 &&
+           parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_end"].state) === 0)
           ? null
-          : ((parseFloat(hass.states["number.replace_me_exclusion_y_begin"].state) +
-              parseFloat(hass.states["number.replace_me_exclusion_y_end"].state)) / 2)
+          : ((parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_begin"].state) +
+              parseFloat(hass.states["number.sensy_one_radar1_exclusion_y_end"].state)) / 2)
         )
   - entity: ""
     name: Target 1
@@ -317,7 +317,7 @@ entities:
       color: lightgrey
       symbol: circle
     text: >
-      $ex ("T1 (" + hass.states["sensor.replace_me_target_1_speed"].state
+      $ex ("T1 (" + hass.states["sensor.sensy_one_radar1_target_1_speed"].state
       + " cm/s)")
     textfont:
       color: lightgrey
@@ -325,18 +325,18 @@ entities:
     x:
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_1_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_1_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_1_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_1_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_1_x_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_1_x_coordinate"].state)
         )
     "y":
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_1_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_1_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_1_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_1_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_1_y_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_1_y_coordinate"].state)
         )
   - entity: ""
     name: Target 2
@@ -347,7 +347,7 @@ entities:
       color: lightgrey
       symbol: circle
     text: >
-      $ex ("T2 (" + hass.states["sensor.replace_me_target_2_speed"].state
+      $ex ("T2 (" + hass.states["sensor.sensy_one_radar1_target_2_speed"].state
       + " cm/s)")
     textfont:
       color: lightgrey
@@ -355,18 +355,18 @@ entities:
     x:
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_2_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_2_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_2_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_2_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_2_x_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_2_x_coordinate"].state)
         )
     "y":
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_2_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_2_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_2_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_2_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_2_y_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_2_y_coordinate"].state)
         )
   - entity: ""
     name: Target 3
@@ -377,7 +377,7 @@ entities:
       color: lightgrey
       symbol: circle
     text: >
-      $ex ("T3 (" + hass.states["sensor.replace_me_target_3_speed"].state
+      $ex ("T3 (" + hass.states["sensor.sensy_one_radar1_target_3_speed"].state
       + " cm/s)")
     textfont:
       color: lightgrey
@@ -385,16 +385,16 @@ entities:
     x:
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_3_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_3_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_3_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_3_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_3_x_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_3_x_coordinate"].state)
         )
     "y":
       - |-
         $ex (
-          parseFloat(hass.states["sensor.replace_me_target_3_x_coordinate"].state) === 0 &&
-          parseFloat(hass.states["sensor.replace_me_target_3_y_coordinate"].state) === 0
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_3_x_coordinate"].state) === 0 &&
+          parseFloat(hass.states["sensor.sensy_one_radar1_target_3_y_coordinate"].state) === 0
           ? null
-          : parseFloat(hass.states["sensor.replace_me_target_3_y_coordinate"].state)
+          : parseFloat(hass.states["sensor.sensy_one_radar1_target_3_y_coordinate"].state)
         )
